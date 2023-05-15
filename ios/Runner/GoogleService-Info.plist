@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>138885047261-siijv9hvdo58fi0d48csnnbui3fkftq1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.138885047261-siijv9hvdo58fi0d48csnnbui3fkftq1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA7sd8whrA4Kyl48hqcWJDmkLJPOFS7Sxg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>138885047261</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.first</string>
+	<key>PROJECT_ID</key>
+	<string>les-mind</string>
+	<key>STORAGE_BUCKET</key>
+	<string>les-mind.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:138885047261:ios:1e194d0f988f530f30cc34</string>
+	<key>DATABASE_URL</key>
+	<string>https://les-mind-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "138885047261",
+    "firebase_url": "https://les-mind-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "les-mind",
+    "storage_bucket": "les-mind.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138885047261:android:948ee1bfd7587c4e30cc34",
+        "android_client_info": {
+          "package_name": "com.example.first"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138885047261-13cpcvi7c5oe8uoqjomi3osbtf8i7rgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA_CAUWHZ5x5RWDnuLnqXivjBKFx6SkB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138885047261-13cpcvi7c5oe8uoqjomi3osbtf8i7rgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
